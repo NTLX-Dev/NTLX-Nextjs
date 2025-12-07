@@ -32,8 +32,8 @@ const Team = () => {
                 <p className="mt-5 text-lg font-bold text-gray-900 sm:text-xl sm:mt-8 font-pj">Jerome Bell</p>
                 <p className="mt-2 text-base font-normal text-gray-600 font-pj">Co-founder, Chairman, Executive Director</p>
             </div>
+            */}
         </div>
-        */}
         <div className="mt-12 sm:mt-16">
             <svg className="w-auto h-4 mx-auto text-gray-300" viewBox="0 0 172 16" fill="none" stroke="currentColor" xmlns="http://www.w3.org/2000/svg">
                 <line y1="-0.5" x2="18.0278" y2="-0.5" transform="matrix(-0.5547 0.83205 0.83205 0.5547 11 1)" />
